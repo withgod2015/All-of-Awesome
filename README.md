@@ -7,7 +7,7 @@ All of Awesome List
 <!-- BEGIN_TOC -->
 * [Data Science](#data-science)
 * [General Programming](#general-programming)
-* [Languages](#languages)
+<summary>* [Languages](#languages)
    * [Assembly](#assembly)
    * [Bash](#bash)
    * [C](#c)
@@ -56,6 +56,7 @@ All of Awesome List
    * [Swift](#swift)
    * [TypeScript](#typescript)
    * [VB.NET](#vbnet)
+   </summary>
 * [Learning platforms and bootcamps](#learning-platforms-and-bootcamps)
 * [Playgrounds](#playgrounds)
 * [Practice Platform](#practice-platform)
