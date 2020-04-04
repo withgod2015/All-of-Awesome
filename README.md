@@ -73,3 +73,6 @@ Programming languages
 ## [Assembly]
 
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) - 💰📱🎮 - A mobile game that teaches you how low-level programming (i.e., Assembler) works
+* [Say hello to x86_64 Assembly](http://0xax.blogspot.com/2014/08/say-hello-to-x64-assembly-part-1.html) - Say hello to x64 Assembly [part 1]
+
+
