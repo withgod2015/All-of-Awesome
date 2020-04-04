@@ -72,10 +72,20 @@ Programming languages
 
 ## [Assembly]
 
+* [asmttpd](https://github.com/nemasu/asmttpd) - Web server for Linux written in amd64 assembly.
+* [flat assembler](http://flatassembler.net/) - This is a place dedicated to assembly language programming for x86 and x86-64 systems
+* [FLASM](http://www.nowrap.de/flasm)	- Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier.
+* [HLA](http://www.plantation-productions.com/Webster/HighLevelAsm/index.html) -	High Level Assembly (HLA) is an assembly language developed by Randall Hyde. It allows the use of higher-level language constructs to aid both beginners and advanced assembly developers.
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) - 💰📱🎮 - A mobile game that teaches you how low-level programming (i.e., Assembler) works
-* [Say hello to x86_64 Assembly](http://0xax.blogspot.com/2014/08/say-hello-to-x64-assembly-part-1.html) -- Say hello to x64 Assembly [part 1]
+* [JWasm](http://jwasm.info/)	- JWasm is a free MASM-compatible assembler.
+* [KolibriOS](http://kolibrios.org/en/) - KolibriOS is a tiny yet incredibly powerful and fast operating system written entirely in FASMassembly language
+* [MenuetOS](http://www.menuetos.net/) - MenuetOS is an Operating System in development for the PC written entirely in 32/64 bit assembly language.
+* [Microsoft Macro Assembler (MASM)](https://www.microsoft.com/en-us/download/details.aspx?id=12654) -	is an x86 assembler that uses the Intel syntax for MS-DOS and Microsoft Windows
+* [Netwide Assembler (NASM)](http://www.nasm.us/)	- is an assembler and disassembler for the Intel x86 architecture
+* [Say hello to x86 64 Assembly](http://0xax.blogspot.com/2014/08/say-hello-to-x64-assembly-part-1.html) - Say hello to x64 Assembly [part 1]
+* [TCP HTTP Server](http://canonical.org/~kragen/sw/dev3/server.s) - small assembly HTTP server program for i386 Linux
+* [YASM](http://yasm.tortall.net/) -	is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
 * [YASP](http://yasp.me/) - yasp is a fully functional web-based assembler development environment, including a real assembler, emulator and debugger.
-* 
-
-
-
+* [ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx) -	ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
+* [PeachPy](https://github.com/Maratyszcza/PeachPy) -	is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
+* [XEDParse](https://github.com/x64dbg/XEDParse) -	XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
