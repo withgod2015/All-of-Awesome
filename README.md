@@ -65,3 +65,11 @@ All of Awesome List
 <!-- END_TOC -->
 
 </details>
+
+# [Languages](https://en.wikipedia.org/wiki/Programming_languages)
+
+Programming languages
+
+## [Assembly]
+
+* [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine) - 💰📱🎮 - A mobile game that teaches you how low-level programming (i.e., Assembler) works
