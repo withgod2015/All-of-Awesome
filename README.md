@@ -25,6 +25,7 @@ All of Awesome List
    * [Go](#go)
    * [Groovy](#groovy)
    * [Haskell](#haskell)
+   * [Haxe](#haxe)
    * [Java](#java)
    * [JavaScript](#javascript)
       * [Client Web Frameworks](#client-web-frameworks)
@@ -44,6 +45,7 @@ All of Awesome List
    * [Pascal](#pascal)
    * [Perl](#perl)
    * [Php](#php)
+   * [Prolog](#prolog)
    * [Python](#python)
    * [R](#r)
    * [Ruby](#ruby)
@@ -89,3 +91,22 @@ Programming languages
 * [ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx) -	ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) -	is an x86-64 assembler embedded in Python which targets high-performance computing audience. PeachPy can generate object files or assembly listings for Windows, Linux, Mac OS X, Native Client, and Go from the same source
 * [XEDParse](https://github.com/x64dbg/XEDParse) -	XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
+
+## [C]
+* [Awesome-C](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things.
+* [Awesome-C](https://github.com/aleksandar-todorovic/awesome-c) - Continuing the development of awesome-c list on GitHub
+* [SPIR-VM](https://github.com/dfranx/SPIRV-VM) -	Virtual machine for executing SPIR-V
+* [Libcsp](https://libcsp.com) - A concurrency C library 10x faster than Golang.
+
+## [Haxe](https://haxe.org/)
+
+* [Awesome-Haxe](https://github.com/nadako/awesome-haxe) - A curated list of useful Haxe links.
+* [Awesome-Haxe-GameDev](https://github.com/Dvergar/awesome-haxe-gamedev) - Resources for game development on haxe
+* [All Haxelibs](https://lib.haxe.org/all/) - A list of every project uploaded on haxelib, sorted by popularity
+* [HASHLINK](https://hashlink.haxe.org/) - A virtual machine for Haxe
+* [Open Source Projects](https://awesomeopensource.com/projects/haxe) - The Top 214 Haxe Open Source Projects
+
+
+## [Prolog]
+
+* [LetSWICrypt](https://github.com/triska/letswicrypt) - Prolog HTTPS Servers
