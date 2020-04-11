@@ -9,6 +9,7 @@ All of Awesome List
    * [Assembly](#assembly)
    * [Bash](#bash)
    * [C](#c)
+      * [Game](#game)
    * [C#](#c#)
    * [C++](#c++)
    * [Clojure](#clojure)
@@ -95,8 +96,25 @@ Programming languages
 ## [C]
 * [Awesome-C](https://github.com/kozross/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things.
 * [Awesome-C](https://github.com/aleksandar-todorovic/awesome-c) - Continuing the development of awesome-c list on GitHub
+* [Cello](http://libcello.org/) - Cello is a library that brings higher level programming to C.
+* [chttpd](https://github.com/Pentium44/chttpd/tree/master/src) - A simple, light, and secure web server
+* [dyad](https://github.com/rxi/dyad) - Asynchronous networking for C
+* [facil.io](https://github.com/boazsegev/facil.io) - Your high performance web application C framework http://facil.io
+* [garcon](https://github.com/marcomorain/garcon) - A local HTTP fileserver
+* [kore.io](https://kore.io/) - An easy to use, scalable and secure web application framework for writing web APIs in C. (https://git.kore.io/kore/)
+* [librcd](https://github.com/hnsl/librcd) - A library for Rapid {C|Concurrency|Correct} Development
+* [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server https://lwan.ws
+* [Minecraft Clone](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders). http://www.michaelfogleman.com/craft/
+* [OOP-C](http://www.eventhelix.com/realtimemantra/basics/object_oriented_programming_in_c.htm#.Ubgd2PlYHng) - Object Oriented Programming in C
+* [OOP-C Sample](http://buzzan.egloos.com/4278828) - Object Oriented Programming  Example in C
+* [OOP-C Sample](http://minjang.egloos.com/2151042) - Object Oriented Programming  Example in C
+* [onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications. http://www.coralbits.com/libonion/
+* [Simple Dynamic Strings library for C](https://github.com/antirez/sds) - Simple Dynamic Strings library for C
 * [SPIR-VM](https://github.com/dfranx/SPIRV-VM) -	Virtual machine for executing SPIR-V
 * [Libcsp](https://libcsp.com) - A concurrency C library 10x faster than Golang.
+
+## [C++]
+* [Awesome-C++](https://github.com/fffaraz/awesome-cpp#awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff
 
 ## [Haxe](https://haxe.org/)
 
