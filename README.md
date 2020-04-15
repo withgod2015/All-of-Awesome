@@ -27,6 +27,7 @@ All of Awesome List
    * [Groovy](#groovy)
    * [Haskell](#haskell)
    * [Haxe](#haxe)
+   * [Idris](#idris)
    * [Java](#java)
    * [JavaScript](#javascript)
       * [Client Web Frameworks](#client-web-frameworks)
@@ -116,6 +117,9 @@ Programming languages
 ## [C++]
 * [Awesome-C++](https://github.com/fffaraz/awesome-cpp#awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff
 
+## [Go](https://golang.org/)
+* [Laitos](https://github.com/HouzuoGuo/laitos) - Top geek's survival kit - personal assistant over satellite/telephone/SMS/chatbot, plus web infrastructure servers (DNS, HTTP, SMTP, SNMP)
+
 ## [Haxe](https://haxe.org/)
 
 * [Awesome-Haxe](https://github.com/nadako/awesome-haxe) - A curated list of useful Haxe links.
@@ -125,6 +129,24 @@ Programming languages
 * [Open Source Projects](https://awesomeopensource.com/projects/haxe) - The Top 214 Haxe Open Source Projects
 
 
+## [Idris](https://www.idris-lang.org/)
+* [A game in a pure language](https://flowing.systems/2020/01/13/a-game-in-a-pure-language-part-1-introduction-and-problems-with-idris.html) - A game in a pure language (part 1): introduction and problems with Idris
+* [Game Idris](https://github.com/corazza/game-idris) - game idris
+
 ## [Prolog]
 
 * [LetSWICrypt](https://github.com/triska/letswicrypt) - Prolog HTTPS Servers
+
+
+## [Python](https://www.python.org/)
+
+* [pdf4py](https://github.com/Halolegend94/pdf4py) - A PDF parser written in Python 3 with no external dependencies.
+
+
+
+## [Rust]
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+* [Awesome Rust](https://github.com/BurntSushi/awesome-rust) - A curated list of awesome Rust code and resources.
+* [Awesome Rust](https://github.com/zzw922cn/awesome-rust) - A curated list of Rust code and resources.
+* [Awesome Rust](https://github.com/fdhadzh/awesome-rust) - A curated list of Rust code and resources.
+* [Awesome Rust](https://awesomeopensource.com/project/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
